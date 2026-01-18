@@ -1,2 +1,2 @@
-# boilerplate-three-js-2025
-# boilerplate-three-js-2025
+npm install
+npm run dev
